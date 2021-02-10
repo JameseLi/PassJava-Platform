@@ -24,3 +24,9 @@
 - content 服务生成所有 CRUD 代码
 - member 服务生成所有 CRUD 代码
 - study 服务生成所有 CRUD 代码
+
+#### 整合nacos
+- 确认springcloud-alibaba 版本
+- 安装nacos
+- passjava-commen 引入nacos 依赖
+- 业务微服务配置nacos
